@@ -1,27 +1,27 @@
-# Kı - papÌr - ollÛ j·tÈk
+# K≈ë - pap√≠r - oll√≥ j√°t√©k
 
-## J·tÈkszab·ly
-- Kı    legyızi az ollÛt
-- PapÌr legyızi a  kˆvet
-- OllÛ  legyızi a  papÌrt
-- ugyanaz dˆntetlen
+## J√°t√©kszab√°ly
+- K≈ë    legy≈ëzi az oll√≥t
+- Pap√≠r legy≈ëzi a  k√∂vet
+- Oll√≥  legy≈ëzi a  pap√≠rt
+- ugyanaz d√∂ntetlen
 
-## J·tÈkmenet
-- [x] sz·mÌtÛgÈp gondol az egyikre (vÈletlensz·m)
-- [x]a felhaszn·lÛ megadja a saj·t lehetısÈgÈt
-  - (K)ı -> 1, (P)apÌr -> 2, (O)llÛ -> 3
-  - feltÈtelezz¸k, hogy jÛ ÈrtÈkeket ad meg!!!
-- eredmÈny kiÈrtÈkelÈse
-- eredmÈny kiÌr·sa
-- 3 nyert j·tsza -> j·tÈk megnyerÈse
+## J√°t√©kmenet
+- [x] sz√°m√≠t√≥g√©p gondol az egyikre (v√©letlensz√°m)
+- [x] a felhaszn√°l√≥ megadja a saj√°t lehet≈ës√©g√©t
+  - (K)≈ë -> 1, (P)ap√≠r -> 2, (O)ll√≥ -> 3
+  - felt√©telezz√ºk, hogy j√≥ √©rt√©keket ad meg!!!
+- eredm√©ny ki√©rt√©kel√©se
+- eredm√©ny ki√≠r√°sa
+- 3 nyert j√°tsza -> j√°t√©k megnyer√©se
 
-## Megold·s
-### Sz·mÌtÛgÈp gondol valamire
-- [x] Tˆmb -> tartalmazza = {"Kı","PapÌr", "OllÛ"}
-- [x] VÈletlen sz·m elı·llÌt·sa (0,1,2)
-- [x] KiÌratjuk a sz·mÌtÛgÈp "v·laszt·s·t"
+## Megold√°s
+### Sz√°m√≠t√≥g√©p gondol valamire
+- [x] T√∂mb -> tartalmazza = {"K≈ë","Pap√≠r", "Oll√≥"}
+- [x] V√©letlen sz√°m el≈ë√°ll√≠t√°sa (0,1,2)
+- [x] Ki√≠ratjuk a sz√°m√≠t√≥g√©p "v√°laszt√°s√°t"
 
-### Felhaszn·lÛ v·laszt·sa
-- [x] KÈrj¸nk be egy sz·mot (1,3) 
-- [x] Õrassuk ki a v·laszt·st
+### Felhaszn√°l√≥ v√°laszt√°sa
+- [x] K√©rj√ºnk be egy sz√°mot (1,3) 
+- [x] √çrassuk ki a v√°laszt√°st
 
