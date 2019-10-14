@@ -1,27 +1,30 @@
-# KÅ‘ - papÃ­r - ollÃ³ jÃ¡tÃ©k
+# Kõ - papír - olló játék
 
-## JÃ¡tÃ©kszabÃ¡ly
-- KÅ‘    legyÅ‘zi az ollÃ³t
-- PapÃ­r legyÅ‘zi a  kÃ¶vet
-- OllÃ³  legyÅ‘zi a  papÃ­rt
-- ugyanaz dÃ¶ntetlen
+## Játékszabály
+- Kõ    legyõzi az ollót
+- Papír legyõzi a  követ
+- Olló  legyõzi a  papírt
+- ugyanaz döntetlen
 
-## JÃ¡tÃ©kmenet
-- [x] szÃ¡mÃ­tÃ³gÃ©p gondol az egyikre (vÃ©letlenszÃ¡m)
-- [x] a felhasznÃ¡lÃ³ megadja a sajÃ¡t lehetÅ‘sÃ©gÃ©t
-  - (K)Å‘ -> 1, (P)apÃ­r -> 2, (O)llÃ³ -> 3
-  - feltÃ©telezzÃ¼k, hogy jÃ³ Ã©rtÃ©keket ad meg!!!
-- eredmÃ©ny kiÃ©rtÃ©kelÃ©se
-- eredmÃ©ny kiÃ­rÃ¡sa
-- 3 nyert jÃ¡tsza -> jÃ¡tÃ©k megnyerÃ©se
+## Játékmenet
+- [x] számítógép gondol az egyikre (véletlenszám)
+- [x]a felhasználó megadja a saját lehetõségét
+  - (K)õ -> 1, (P)apír -> 2, (O)lló -> 3
+  - feltételezzük, hogy jó értékeket ad meg!!!
+- eredmény kiértékelése
+- eredmény kiírása
+  [x] minden kör után kész
+- 3 nyert játsza -> játék megnyerése
+  [x] három nyert játszma után vége
+  [x] végeredményt kiírni
 
-## MegoldÃ¡s
-### SzÃ¡mÃ­tÃ³gÃ©p gondol valamire
-- [x] TÃ¶mb -> tartalmazza = {"KÅ‘","PapÃ­r", "OllÃ³"}
-- [x] VÃ©letlen szÃ¡m elÅ‘Ã¡llÃ­tÃ¡sa (0,1,2)
-- [x] KiÃ­ratjuk a szÃ¡mÃ­tÃ³gÃ©p "vÃ¡lasztÃ¡sÃ¡t"
+## Megoldás
+### Számítógép gondol valamire
+- [x] Tömb -> tartalmazza = {"Kõ","Papír", "Olló"}
+- [x] Véletlen szám elõállítása (0,1,2)
+- [x] Kiíratjuk a számítógép "választását"
 
-### FelhasznÃ¡lÃ³ vÃ¡lasztÃ¡sa
-- [x] KÃ©rjÃ¼nk be egy szÃ¡mot (1,3) 
-- [x] Ãrassuk ki a vÃ¡lasztÃ¡st
+### Felhasználó választása
+- [x] Kérjünk be egy számot (1,3) 
+- [x] Írassuk ki a választást
 
